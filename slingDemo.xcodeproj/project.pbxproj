@@ -15,6 +15,7 @@
 		6FCAA4B91F4D01690048C89F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FCAA4B71F4D01690048C89F /* Main.storyboard */; };
 		6FCAA4BB1F4D01690048C89F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FCAA4BA1F4D01690048C89F /* Assets.xcassets */; };
 		6FCAA4BE1F4D01690048C89F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FCAA4BC1F4D01690048C89F /* LaunchScreen.storyboard */; };
+		6FCAA4C61F4D018B0048C89F /* sling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FCAA4C51F4D018B0048C89F /* sling.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		6FCAA4BA1F4D01690048C89F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6FCAA4BD1F4D01690048C89F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6FCAA4BF1F4D01690048C89F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6FCAA4C51F4D018B0048C89F /* sling.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = sling.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				6FCAA4AF1F4D01690048C89F /* GameScene.sks */,
 				6FCAA4B11F4D01690048C89F /* Actions.sks */,
 				6FCAA4B31F4D01690048C89F /* GameScene.swift */,
+				6FCAA4C51F4D018B0048C89F /* sling.swift */,
 				6FCAA4B51F4D01690048C89F /* GameViewController.swift */,
 				6FCAA4B71F4D01690048C89F /* Main.storyboard */,
 				6FCAA4BA1F4D01690048C89F /* Assets.xcassets */,
@@ -150,6 +153,7 @@
 				6FCAA4B41F4D01690048C89F /* GameScene.swift in Sources */,
 				6FCAA4B61F4D01690048C89F /* GameViewController.swift in Sources */,
 				6FCAA4AE1F4D01690048C89F /* AppDelegate.swift in Sources */,
+				6FCAA4C61F4D018B0048C89F /* sling.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
